@@ -1,0 +1,8 @@
+2023-07-28 18:18:46,499 - INFO - GetMovieName function is started.
+2023-07-28 18:18:49,194 - INFO - GetMovieLink Function is started.
+2023-07-28 18:18:49,194 - INFO - GetData Function is started.
+2023-07-28 18:18:49,196 - INFO - GetData Function is complete.
+2023-07-28 18:18:49,196 - INFO - GetMovieLink Function is complete.
+2023-07-28 18:18:49,198 - DEBUG - Starting new HTTPS connection (1): www.beyazperde.com:443
+2023-07-28 18:18:49,277 - DEBUG - https://www.beyazperde.com:443 "GET /filmler/film-126169/ HTTP/1.1" 200 None
+2023-07-28 18:18:49,323 - INFO - GetMovieName function is complete.

@@ -1,0 +1,12 @@
+2023-07-28 18:22:30,851 - INFO - GetMovieAllFeatures function is started.
+2023-07-28 18:22:34,266 - INFO - GetMovieLink Function is started.
+2023-07-28 18:22:34,266 - INFO - GetData Function is started.
+2023-07-28 18:22:34,267 - INFO - GetData Function is complete.
+2023-07-28 18:22:34,267 - INFO - GetMovieLink Function is complete.
+2023-07-28 18:22:34,271 - DEBUG - Starting new HTTPS connection (1): www.beyazperde.com:443
+2023-07-28 18:22:34,327 - DEBUG - https://www.beyazperde.com:443 "GET /filmler/film-258484/ HTTP/1.1" 200 None
+2023-07-28 18:22:34,366 - DEBUG - Starting new HTTPS connection (1): www.beyazperde.com:443
+2023-07-28 18:22:35,656 - DEBUG - https://www.beyazperde.com:443 "GET /filmler/film-258484/fotolar/detay/?cmediafile=21455428 HTTP/1.1" 200 None
+2023-07-28 18:22:35,679 - INFO - GetNextId Function is started.
+2023-07-28 18:22:35,680 - INFO - GetNextId Function is complete.
+2023-07-28 18:22:35,680 - INFO - GetMovieAllFeatures function is complete.

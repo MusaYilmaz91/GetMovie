@@ -1,0 +1,8 @@
+2023-09-26 12:30:36,894 - INFO - GetMovieSummary function is started.
+2023-09-26 12:30:39,521 - INFO - GetMovieLink Function is started.
+2023-09-26 12:30:39,521 - INFO - GetData Function is started.
+2023-09-26 12:30:39,522 - INFO - GetData Function is complete.
+2023-09-26 12:30:39,522 - INFO - GetMovieLink Function is complete.
+2023-09-26 12:30:39,524 - DEBUG - Starting new HTTPS connection (1): www.beyazperde.com:443
+2023-09-26 12:30:42,293 - DEBUG - https://www.beyazperde.com:443 "GET /filmler/film-273911/ HTTP/1.1" 200 None
+2023-09-26 12:30:42,333 - INFO - GetMovieSummary function is complete.
