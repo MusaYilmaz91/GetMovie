@@ -2,7 +2,7 @@ import pyodbc
 from Log.log import LoggingHelper
 
 class MsSqlDatabase:
-
+    # Edit database information according to your own database!!
     server = "(LocalDB)\MSSQLLocalDB"
     database = "Filmler"
     connection_string = f'DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={server};DATABASE={database};Trusted_Connection=yes;'
