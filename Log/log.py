@@ -35,21 +35,3 @@ class LoggingHelper:
     def log_critical(self,message):
         self.logger.critical(message)
 
-
-
-# class logging_:
-
-#     su_an = datetime.datetime.now()
-#     tarih_formati = "%d-%m-%Y"
-#     saat_formati = "%H-%M-%S"
-#     tarih_yazdir = su_an.strftime(tarih_formati)
-#     saat_yazdir = su_an.strftime(saat_formati)
-#     date_time=f"{tarih_yazdir}_{saat_yazdir}.log"
-#     print(date_time)
-
-#     logDosyaAdi = f"C:\\Users\\MusaYilmaz\\Desktop\\mssql_projesi\\Log\\{date_time}"
-#     logFormati = '%(asctime)s - %(levelname)s - %(message)s'
-
-#     logSeviyesi = logging.DEBUG
-
-#     logging.basicConfig(filename=logDosyaAdi, level=logSeviyesi, format=logFormati)
